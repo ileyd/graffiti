@@ -5,7 +5,7 @@ import (
 	"testing"
 	"text/template"
 
-	"github.com/natefinch/graffiti/tags"
+	"github.com/ileyd/graffiti/tags"
 )
 
 func TestMakeOptions(t *testing.T) {

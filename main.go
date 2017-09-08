@@ -9,7 +9,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/natefinch/graffiti/tags"
+	"github.com/ileyd/graffiti/tags"
 )
 
 func main() {
